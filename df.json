@@ -1,10 +1,10 @@
 {
 
-"SOLAR" : {
+"solar" : {
            "roof":["a", "b","c"]
 },
 
-"WIND" : {
+"wind" : {
            "location":["1", "2","3"]
 }
 
