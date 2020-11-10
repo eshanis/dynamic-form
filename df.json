@@ -1,13 +1,13 @@
 {
-
-"solar" : {
-           "roof":["a", "b","c"]
-},
-
-"wind" : {
-           "location":["1", "2","3"]
-}
-
-
-
+  "solar" : {
+     "roof":["roof size", "roof warranty", "roof slope direction","roof weight support"],
+     "costs":["fees", "electricity credit", "rebates", "solar insurance", "maintenance", "warranties"],
+     "contactors":["valley solar Inc", "aztec solar inc.", "sacramento solar company", "epic energy" ]
+  },
+  
+  "wind" : {
+     "location":["wind levels", "zoning requirements"],
+     "cost":["incentives", "turbine size","tower size"],
+     "contractors":["northwind group", "barnum and cellilo electric, inc.","calWEA", "tim jones roofing"]
+  }
 }
