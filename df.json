@@ -2,7 +2,7 @@
   "solar" : {
      "roof":["roof size", "roof warranty", "roof slope direction","roof weight support"],
      "costs":["fees", "electricity credit", "rebates", "solar insurance", "maintenance", "warranties"],
-     "contactors":["valley solar Inc", "aztec solar inc.", "sacramento solar company", "epic energy" ]
+     "contractors":["valley solar Inc", "aztec solar inc.", "sacramento solar company", "epic energy" ]
   },
   
   "wind" : {
