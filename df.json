@@ -7,7 +7,7 @@
   
   "wind" : {
      "location":["wind levels", "zoning requirements"],
-     "cost":["incentives", "turbine size","tower size"],
+     "costs":["incentives", "turbine size","tower size"],
      "contractors":["northwind group", "barnum and cellilo electric, inc.","calWEA", "tim jones roofing"]
   }
 }
